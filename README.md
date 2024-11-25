@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="assets/Travelgram.png" width="40%">
+  <img alt="projeto DevLinks" src="assets/Travelgram.png" width="60%">
   
 </p>
 
