@@ -4,6 +4,7 @@ footer {
     max-width: 1200px;
     padding-block: 24px;
     margin-inline:auto;
+    font: 14px/150% var(--font-family);
 }
 
 footer span:nth-child(1) {
